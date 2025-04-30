@@ -20,7 +20,7 @@ This project presents a binary classification problem using supervised learning.
 
 df = pd.read_csv('/path/to/your/dataset.csv')
 print(df.head())
-### Key Steps
+## Key Steps
 - **Data Quality Assessment**: Checking for missing values, outliers, and categorical data inconsistencies.
 - **Exploratory Data Analysis**: Visualizing distribution and churn rates.
 - **Data Preprocessing**: Cleaning data, feature engineering, and splitting the dataset into training and validation sets.
@@ -31,7 +31,7 @@ Metrics used for assessment include:
 - ROC AUC Score
 - Confusion Matrix
 - Classification Report
-### Final Discussion
+## Final Discussion
 The final model will offer insights into customer behavior and help in implementing action strategies to reduce churn.
 ## Conclusion
 The customer churn predictive model provides an actionable framework for businesses to enhance customer retention strategies. 
