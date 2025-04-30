@@ -1,6 +1,6 @@
-# Data-science-projects
 
-## ** E_commerce_Business_Transaction**
+
+##  E_commerce_Business_Transaction
 
 ## Business Context
 Our client is an online business selling a variety of products to international consumers. The goal of this research is to help the client better understand consumer behavior and generate more sales through data-driven decision making.
